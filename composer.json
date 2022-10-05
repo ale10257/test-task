@@ -1,0 +1,7 @@
+{
+  "name": "ale10257/test-task",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.4.0"
+  }
+}

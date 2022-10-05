@@ -3,5 +3,10 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "testTask\\": "src"
+    }
   }
 }
